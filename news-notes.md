@@ -57,6 +57,54 @@ Briefs (bottom strip):
   was not verified anywhere.)
 - "Xi hugged Trump on the tarmac": not verified in any source found. Dropped.
 
+## v2 update (verified Fri 20 Nov ~09:15 WIB; full day's news)
+
+v1 (10:50 WIB, 19 Nov) used morning news only. v2 carries the three
+outcomes that resolved during the day, plus a re-angled Gulf story:
+
+1. LEAD — Trilateral HELD, joint statement CONFIRMED. The first-ever
+   Trump–Xi–Putin meeting (~90 min, Kylin Villa, Shenzhen) produced a
+   four-point "Declaration Towards Peace" (full text published by the
+   White House / Xinhua / Kremlin): (1) UN reform; (2) increase refined
+   oil production and supply; (3) the ICC "must not abuse its
+   jurisdiction" (state consent, official immunities); (4) "a nuclear
+   war cannot be won and must never be fought", with dialogue on
+   reducing nuclear risks. No mention of Ukraine or the Middle East
+   wars; no deal on Ukraine, Iran or nuclear arms. The trade/tech
+   pledges reported earlier were a SEPARATE APEC statement, not the
+   trilateral declaration. Sources: Human Events (full text), CNN,
+   Daily Jagran, Facebook/Daily Orbit (19 Nov).
+2. ICJ — FINAL: Myanmar COMMITTED GENOCIDE. After a ~3-hour reading
+   (ended ~19:00 WIB), the court found "the Republic of the Union of
+   Myanmar has committed genocide against the Rohingya group in
+   Northern Rakhine State" — the first time the ICJ has held a state
+   responsible for genocide, and only the 4th time since the Holocaust
+   that an international court found the legal threshold met. Evidence:
+   ~10,000 Rohingya killed in 2017, widespread sexual violence,
+   extreme violence against children. Final, binding, no appeal;
+   Myanmar ordered to cease violations, investigate/prosecute, give
+   non-repetition guarantees, allow restitution/return, and pay
+   compensation (amount in a later phase). Sources: Reuters (19 Nov),
+   UN News, UNifeed, IIMM, Le Monde.
+3. Anthropic (ANT) first-day close: opened $111.50 (+34% vs the $83 IPO
+   price), high $115.10, low $92.72, closed $97.17 (+17.07%). Nasdaq
+   fell 2.25% the same day. Sources: Finnhub, Investopedia, WSJ, Fast
+   Company (19 Nov). (Market-cap figures conflict across outlets —
+   $1.27tn to $1.8tn — so none is printed.)
+4. Gulf — re-angled to the 19 Nov count: about 14 attacks on ships in
+   and near the Strait of Hormuz in the first 19 days of November
+   (UKMTO count via Bloomberg), the fastest pace of the war; October
+   was already a record month and November is on pace to exceed it.
+   Sources: europesays (19 Nov), NPR/WCMU (19 Nov). (The Kuwait/
+   Bahrain drone strikes and the ADNOC tanker hit were 17–18 Nov
+   events, so v2 no longer leads with them.)
+5. Akvan brief: ~47,000–50,000 evacuated in Odisha; landfall still
+   forecast for Friday ~noon (IMD bulletin 28), framed as forecast,
+   not as a 19 Nov event.
+
+Unchanged from v1: Crimean Bridge (3rd strike), Jeffries nomination,
+GTA VI rollout, Van Gogh record sale. All still verified 19 Nov news.
+
 ## Wording cautions for the image
 - Trilateral: meeting is scheduled for today; do NOT claim an outcome.
 - ICJ: verdict is due today; do NOT claim the result.

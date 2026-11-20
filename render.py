@@ -107,13 +107,13 @@ def main():
     ty = ly + 16
     ty = kicker(d, tx, ty, "SHENZHEN  ·  APEC SUMMIT  ·  LEAD STORY", RED)
     ty = draw_text_block(d, tx, ty + 4,
-                         "Trump, Xi and Putin meet in first-ever trilateral summit",
+                         "Trump, Xi and Putin issue four-point 'Declaration Towards Peace'",
                          F_SERIF_BOLD(32), INK, 640, 38, max_lines=2,
                          label="lead headline")
     draw_text_block(d, tx, ty + 8,
-                    "The leaders of the US, China and Russia sit down together "
-                    "for the first time, with nuclear arms and the Iran war on "
-                    "the agenda.",
+                    "The first-ever trilateral pledges UN reform, oil supply, "
+                    "ICC limits and nuclear-risk talks — Ukraine goes "
+                    "unmentioned.",
                     F_SANS(20), (52, 52, 52), 640, 26, max_lines=2,
                     label="lead body")
     # Three discs: USA / CHINA / RUSSIA
@@ -126,7 +126,7 @@ def main():
                fill=(255, 255, 255), anchor="mm")
     d.text((cx0 + 92, ly + 124), "Three nuclear powers, one table",
            font=F_SANS_SEMI(17), fill=MUTED, anchor="ma")
-    d.text((cx0 + 92, ly + 148), "US officials expect no deal",
+    d.text((cx0 + 92, ly + 148), "A declaration, not a deal",
            font=F_SANS(16), fill=MUTED, anchor="ma")
 
     # ---- Grid: six stories ----------------------------------------------
@@ -134,19 +134,19 @@ def main():
     cw, ch, gap = 312, 236, 20
     stories = [
         ("THE GULF  ·  WAR", RED,
-         "US-Iran war widens to Gulf states",
-         "Iran fires drones at a US base in Kuwait and targets in Bahrain; "
-         "a tanker is hit near Hormuz (1 missing, 11 hurt). Three US "
-         "carrier groups are in the region."),
+         "Hormuz attacks hit a record pace",
+         "Iran has struck about 14 ships near the Strait of Hormuz this "
+         "month, the fastest pace of the war. Three US carrier groups "
+         "are in the region."),
         ("TECH  ·  MARKETS", TEAL,
-         "Anthropic IPO is the biggest ever",
-         "The AI lab raises $81.3bn at $83 a share, valuing it at about "
-         "$1.5tn. Shares start trading today on Nasdaq under ANT."),
+         "Anthropic closes up 17% on day one",
+         "The AI lab's shares open at $111.50 on Nasdaq, peak at $115.10, "
+         "then fade to close at $97.17 — 17% above the $83 IPO price."),
         ("THE HAGUE  ·  LAW", GOLD,
-         "Myanmar faces genocide verdict",
-         "The UN court rules today on whether Myanmar committed genocide "
-         "against the Rohingya. A guilty verdict would be a first for any "
-         "state."),
+         "Myanmar guilty of genocide",
+         "The UN court finds Myanmar committed state-sponsored genocide "
+         "against the Rohingya — the first state ever held responsible. "
+         "Final and binding."),
         ("UKRAINE  ·  WAR", RED,
          "Crimean Bridge hit a third time",
          "An overnight strike halts traffic on the bridge to Crimea, days "
@@ -172,8 +172,8 @@ def main():
                         outline=RULE, width=2)
     d.text((44, by + 12), "ALSO TODAY", font=F_SANS_BLACK(17), fill=RED)
     draw_text_block(d, 44, by + 38,
-                    "Cyclone Akvan bears down on India's east coast; landfall "
-                    "expected Friday, schools shut in Odisha.",
+                    "Cyclone Akvan nears India's east coast; ~50,000 evacuated "
+                    "in Odisha, landfall expected Friday.",
                     F_SANS(19), INK, 440, 25, max_lines=2)
     draw_text_block(d, 536, by + 38,
                     "Van Gogh's Blossoming Chestnut Trees sells for a record "
